@@ -42,7 +42,6 @@ Screenshot:
 ![Database Screenshot](./databasecloudcomputinghw0.jpeg)
 
 
-
 ## FastAPI Application
 
 ### Setup Steps:
@@ -61,9 +60,8 @@ Screenshot:
 ## Screenshot:
 The screenshots of the working application are included:
 
-- applicationdocscloudcomputinghw0.jpeg
-- applicationcodecloudcomputinghw0.jpeg
-
+- ![applicationdocscloudcomputinghw0.jpeg](./applicationdocscloudcomputinghw0.jpeg)
+- ![applicationcodecloudcomputinghw0.jpeg](./applicationcodecloudcomputinghw0.jpeg)
 
 
 
