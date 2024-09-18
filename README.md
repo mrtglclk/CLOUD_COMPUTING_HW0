@@ -39,9 +39,8 @@ Screenshot:
 
 ## Database Screenshot (Cloud Computing)
 
-![Database Screenshot](./docs/database_screenshot.png)
+![Database Screenshot](./docs/databasecloudcomputinghw0.jpeg)
 
-You can view the full PDF [here](./docs/databasescreenshotcloudcomputing.pdf).
 
 
   
