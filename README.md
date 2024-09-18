@@ -1,4 +1,9 @@
+
+
 # Submission for W4153 - Project 1 (Cloud Computing)
+Murat Gulcelik 
+mg4377
+HW0 - Cloud Computing
 
 ## 1. Database Repository Setup
 ### Steps to Set Up:
