@@ -60,8 +60,41 @@ Screenshot:
 ## Screenshot:
 The screenshots of the working application are included:
 
-- ![applicationdocscloudcomputinghw0.jpeg](./applicationdocscloudcomputinghw0.jpeg)
-- ![applicationcodecloudcomputinghw0.jpeg](./applicationcodecloudcomputinghw0.jpeg)
+![applicationdocscloudcomputinghw0.jpeg](./applicationdocscloudcomputinghw0.jpeg)
+![applicationcodecloudcomputinghw0.jpeg](./applicationcodecloudcomputinghw0.jpeg)
+
+
+
+## UI
+
+### Overview:
+This project is the user interface (UI) component for W4153 - Cloud Computing Project 1, which is a simple full-stack web application. The UI is built using Angular and runs in a browser.
+
+### Installation:
+
+1. Install Angular by following the official Angular documentation.
+   
+2. After installing Angular, open a terminal window in your IDE (e.g., WebStorm). Run the following command to install the required dependencies:
+   npm install
+
+   - This will install all necessary packages for the project. Ignore any warnings unless there are fatal errors. You can resolve fatal errors by using resources such as Google, Stack Overflow, ChatGPT, or friends.
+
+3. After the installation is complete, start the Angular application by running:
+   ng serve
+
+   - The terminal will display a URL, typically http://localhost:4200/. Open this link in your browser to see the application running.
+
+   If the browser page loads, the installation was successful.
+
+### Running the Application:
+
+Before running the UI application, ensure that the application backend and database projects are set up and running. The UI connects to the FastAPI application and interacts with the MySQL database.
+
+### Screenshot:
+Here is a screenshot demonstrating the UI repository setup:
+
+![applicationcodecloudcomputinghw0.jpeg](./userinterfaceemptycloudcomputinghw0.jpeg)
+![applicationcodecloudcomputinghw0.jpeg](./userinterfacefullcloudcomputinghw0.jpeg)
 
 
 
