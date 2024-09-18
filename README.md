@@ -39,7 +39,7 @@ Screenshot:
 
 ## Database Screenshot (Cloud Computing)
 
-![Database Screenshot](./docs/databasecloudcomputinghw0.jpeg)
+![Database Screenshot](./databasecloudcomputinghw0.jpeg)
 
 
 
