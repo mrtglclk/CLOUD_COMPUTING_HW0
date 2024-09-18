@@ -43,6 +43,27 @@ Screenshot:
 
 
 
-  
-  
-   
+## FastAPI Application
+
+### Setup Steps:
+1. Install Dependencies:
+   pip install fastapi uvicorn sqlalchemy mysql-connector-python pydantic
+
+2. Set Up FastAPI:
+   - I created a FastAPI app with a MySQL database connection (p1_database).
+   - Defined the course_sections table and built API endpoints for CRUD operations.
+
+3. Run the Application:
+   uvicorn main:app --reload
+
+4. Verify the setup by accessing the app at http://127.0.0.1:8000.
+
+## Screenshot:
+The screenshots of the working application are included:
+
+- applicationdocscloudcomputinghw0.jpeg
+- applicationcodecloudcomputinghw0.jpeg
+
+
+
+
