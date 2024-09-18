@@ -1,26 +1,12 @@
-# CLOUD_COMPUTING_HW0
-
-## Project Overview
-This project integrates three repositories: Database, Application, and UI, to provide a comprehensive end-to-end solution for managing course sections.
-
----
-
-## Table of Contents
-- [Database](#database)
-- [Application](#application)
-- [UI](#ui)
-- [Screenshots](#screenshots)
-- [Additional Functionality](#additional-functionality)
-- [Submission Instructions](#submission-instructions)
-
----
-
 ## Database
 
 ### Steps to Set Up the Database Repository
 
-1. **Install MySQL**: Ensure MySQL server is installed and running on your local machine.
-2. **Create Database**: Execute the following SQL commands to create the database and the required table:
+1. **Install MySQL**: 
+   - Ensure that MySQL server is installed and running on your local machine. You can download it from the [MySQL website](https://dev.mysql.com/downloads/mysql/).
+
+2. **Create the Database**: 
+   - Open a MySQL client (like MySQL Workbench or the command line) and execute the following SQL commands to create the database and the required table:
    ```sql
    CREATE DATABASE IF NOT EXISTS p1_database;
 
@@ -38,3 +24,26 @@ This project integrates three repositories: Database, Application, and UI, to pr
        course_year   TEXT   NULL,
        semester      TEXT   NULL
    );
+
+3. **Insert Sample Data**: 
+   - provided in repo
+  
+4. **Verify Connection**: 
+   - Use a MySQL client or command line to ensure that the database and tables are set up correctly by running:
+  
+Brief Summary of Section:
+
+I installed MySQL on my local machine, created a database named p1_database, and set up the course_sections table with the necessary fields. I inserted sample data to test the application functionality and verified the connection by querying the table.
+
+Screenshot: 
+
+## Database Screenshot (Cloud Computing)
+
+![Database Screenshot](./docs/database_screenshot.png)
+
+You can view the full PDF [here](./docs/databasescreenshotcloudcomputing.pdf).
+
+
+  
+  
+   
