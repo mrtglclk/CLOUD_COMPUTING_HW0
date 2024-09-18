@@ -91,7 +91,7 @@ This project is the user interface (UI) component for W4153 - Cloud Computing Pr
 Before running the UI application, ensure that the application backend and database projects are set up and running. The UI connects to the FastAPI application and interacts with the MySQL database.
 
 ### Screenshot:
-Here is a screenshot demonstrating the UI repository setup:
+Here is a screenshot demonstrating the UI:
 
 ![applicationcodecloudcomputinghw0.jpeg](./userinterfaceemptycloudcomputinghw0.jpeg)
 ![applicationcodecloudcomputinghw0.jpeg](./userinterfacefullcloudcomputinghw0.jpeg)
